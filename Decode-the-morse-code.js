@@ -20,3 +20,6 @@ and usually are transmitted as separate words.
 Your task is to implement a function that would take the morse code 
 as input and return a decoded human-readable string.
 */
+
+
+// Solution
